@@ -1,0 +1,8 @@
+dash
+plotly
+pandas
+numpy
+networkx
+joblib
+reportlab
+scikit-learn
